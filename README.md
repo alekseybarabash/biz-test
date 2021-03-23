@@ -1,4 +1,4 @@
-# TERRAFORM: install
+# TERRAFORM install:
 
 # Requirements
 - Terraform 0.13 and higher
@@ -87,9 +87,9 @@ below is the command how to use them.
 
 
 # AWS-PY:
-- Requirements:
-Installed Python minimal requared version 3.6
-Installed module [boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html#installation)
+# Requirements:
+- Installed Python minimal requared version 3.6
+- Installed module [boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html#installation)
 
 ```bash
 python3 -m pip install boto3 
