@@ -1,8 +1,10 @@
-# TERRAFORM install:
+# Test tasks:
 
 # Requirements
 - Terraform 0.13 and higher
 - Python3
+
+# Terraform part:
 
 # Download and install terraform:
 - Download [terraform](https://www.terraform.io/downloads.html)
@@ -85,6 +87,7 @@ curl ec2-3-120-179-254.eu-central-1.compute.amazonaws.com
 - The public and private keys for access to the created VM will be written to the OUT directory,
 below is the command how to use them.
 
+# Python part:
 
 # AWS-PY:
 # Requirements:
